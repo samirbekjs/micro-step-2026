@@ -47,7 +47,7 @@ Yozuvlar sana bo'yicha tartiblangan. Kerakli kunni ochish uchun uning sarlavhasi
 
 </details>
 
-<details open>
+<details>
 <summary><strong>22.09.2026</strong> · 11:39 AM · Uzbekistan, Karshi</summary>
 
 
@@ -65,6 +65,17 @@ Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
 
 </details>
 
+<details open>
+<summary><strong>22.09.2026</strong> · 1:50 AM · Uzbekistan, Karshi</summary>
+
+
+Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
+
+> Yangi loyiha ustida ish boshladim. loyiha nomi <kbd>NeyroNet</kbd>. Bugun ilk marotaba bu loyihaning papkasini kompyuterimda ochdim.
+
+- [ ] Yangi loyihalar, yangi muammolar va yangi yechimlar. Menga bu yoqayapti nabirajonim. Sen ham shunday bo'lasan 😉
+
+</details>
 
 
 ---
