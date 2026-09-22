@@ -77,7 +77,7 @@ Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
 <details open>
 <summary><strong>22.09.2026</strong> · 7:27 PM · Uzbekistan, Karshi</summary>
 
-> Bugungi kun juda ajoyib bo'ldi. Yaxshi xotiralarga boy va qiziqarli o'tdi. Eng yaqin insonim uchun kayfiyat manbai ekanman. U ham mening kayfiyat manbaimdir. Meni ijod qilishga undaydigan insondir. Shu bois bugunning o'zida ancha ishlarni qildim. Har doim ilhom manbaim bo'p qolish dunyo go'zalim
+> Bugungi kun juda ajoyib bo'ldi. Yaxshi xotiralarga boy va qiziqarli o'tdi. Eng yaqin insonim uchun kayfiyat manbai ekanman. U ham mening kayfiyat manbaimdir. Meni ijod qilishga undaydigan insondir. Shu bois bugunning o'zida ancha ishlarni qildim. Har doim ilhom manbaim bo'p qoling dunyo go'zalim
 
 - [ ] Ha bu <kbd>sevgi</kbd> deb ataladi. Dasturchi sevgisi. 😉
 
