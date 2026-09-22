@@ -13,8 +13,6 @@ Yozuvlar sana bo'yicha tartiblangan. Kerakli kunni ochish uchun uning sarlavhasi
 <details open>
 <summary><strong>16.09.2026</strong> · 10:26 PM · Uzbekistan, Karshi</summary>
 
-<img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1200&q=80" alt="Birgalikda o'rganish" width="100%" />
-
 > Bugun kun juda ajoyib o'tti Gitni o'rgandim. Adashim bilan Coca Cola ichdik. Juda ajoyib vaqt o'tdi
 
 - [ ] Ertaga 42.uz dan o'rganishni davom etaman.
@@ -24,7 +22,6 @@ Yozuvlar sana bo'yicha tartiblangan. Kerakli kunni ochish uchun uning sarlavhasi
 <details>
 <summary><strong>17.09.2026</strong> · 12:34 PM · Uzbekistan, Karshi</summary>
 
-<img src="https://images.unsplash.com/photo-1592478411213-6153e4ebc696?auto=format&fit=crop&w=1200&q=80" alt="Virtual reallik ko'zoynagi" width="100%" />
 
 > Bugun men ilk marotaba VR ko'z oynakni taqib ko'rdim. Shunchaki BOOM ekan. Juda yaxshi taassurot oldim bundan
 
@@ -35,7 +32,6 @@ Yozuvlar sana bo'yicha tartiblangan. Kerakli kunni ochish uchun uning sarlavhasi
 <details>
 <summary><strong>21.09.2026</strong> · 9:46 AM · Uzbekistan, Karshi</summary>
 
-<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80" alt="Dasturlash va o'rganish" width="100%" />
 
 > Git ni chuqur o'rganishni davom etmoqdaman va o'rganlarimni takrorlayapman. Hozir 3d o'qituvchi dars berayapti ammo STARTUP to'g'risida hammaga aqlli gaplar aytayapti. Umrida bir qator ham kod yozma[...]
 
@@ -44,7 +40,6 @@ Yozuvlar sana bo'yicha tartiblangan. Kerakli kunni ochish uchun uning sarlavhasi
 <details>
 <summary><strong>21.09.2026</strong> · 20:56 · Uzbekistan, Karshi</summary>
 
-<img src="https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=1200&q=80" alt="Yaqin insonlar bilan suhbat" width="100%" />
 
 > Ancha kayfiyatim ko'tarildi bugun sababi eng yaqin insonim bilan gaplashdim. soat 20:55 men bugungi gaplarni tarixga muhrlayman dedim va bugunni muhrladim. Allohdan nima so'rashni bilsanggiz u hamma[...]
 
@@ -55,7 +50,6 @@ Yozuvlar sana bo'yicha tartiblangan. Kerakli kunni ochish uchun uning sarlavhasi
 <details>
 <summary><strong>22.09.2026</strong> · 11:39 AM · Uzbekistan, Karshi</summary>
 
-<img src="https://images.unsplash.com/photo-1455885666463-2c6b6b3d6a1a?auto=format&fit=crop&w=1200&q=80" alt="She'r yozish" width="100%" />
 
 Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
 
@@ -66,15 +60,12 @@ Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
 > Dilda aytolmagan izhorlarim bor
 >
 > Eshit gulim sözlarimga yoğmasdan qor
+- [ ] shoir sher yoziy. Bu sherni qachon yozganimni bilmayman. Ammo bugun topib oldim
+      Atalgan sherni atalgan qadrli insonim o'qidi. Kayfiyatim ko'tarildi farishtam, juda xursandman
 
 </details>
 
-<details>
-<summary><strong>Sanasi noma'lum</strong></summary>
 
-shoir sher yoziy. Bu sherni qachon yozganimni bilmayman. Ammo bugun topib oldim
-
-</details>
 
 ---
 
