@@ -22,3 +22,13 @@
 
 [ ] Hech qachon bilmagan qilolmagan yoki qilib ko'rmagan ishing haqida aqllilik qilma. Chunki juda xunuk ko'rinar ekan chetdan
 
+22.09.2026. 11:39 AM. Uzbekistan, Karshi
+
+Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
+
+> Quloğingga pichirlshga sözlar biysor
+> Eshitasanmi tong otguncha meni ey yor
+> Dilda aytolmagan izhorlarim bor
+> Eshit gulim sözlarimga yoğmasdan qor
+
+shoir sher yoziy. Bu sherni qachon yozganimni bilmayman. Ammo bugun topib oldim
