@@ -10,7 +10,7 @@
 
 Yozuvlar sana bo'yicha tartiblangan. Kerakli kunni ochish uchun uning sarlavhasini bosing.
 
-<details open>
+<details>
 <summary><strong>16.09.2026</strong> · 10:26 PM · Uzbekistan, Karshi</summary>
 
 > Bugun kun juda ajoyib o'tti Gitni o'rgandim. Adashim bilan Coca Cola ichdik. Juda ajoyib vaqt o'tdi
@@ -47,7 +47,7 @@ Yozuvlar sana bo'yicha tartiblangan. Kerakli kunni ochish uchun uning sarlavhasi
 
 </details>
 
-<details>
+<details open>
 <summary><strong>22.09.2026</strong> · 11:39 AM · Uzbekistan, Karshi</summary>
 
 
@@ -68,7 +68,3 @@ Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
 
 
 ---
-
-<div align="center">
-  <sub>Yangi yozuv qo'shishda: sana, vaqt va joyni kiriting, so'ng alohida <code>&lt;details&gt;</code> bloki ichiga matnni joylang.</sub>
-</div>
