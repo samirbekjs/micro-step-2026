@@ -27,8 +27,11 @@
 Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
 
 > Quloğingga pichirlshga sözlar biysor
+
 > Eshitasanmi tong otguncha meni ey yor
+
 > Dilda aytolmagan izhorlarim bor
+
 > Eshit gulim sözlarimga yoğmasdan qor
 
 shoir sher yoziy. Bu sherni qachon yozganimni bilmayman. Ammo bugun topib oldim
