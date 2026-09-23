@@ -94,7 +94,7 @@ Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
 > Ertalabdan shuncha gap.
 ```python
 while True:
-    print('har kuni harakat qil, natija bo'lmasa ham')
+    print("har kuni harakat qil, natija bo'lmasa ham")
 ```
 
 </details>
