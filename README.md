@@ -74,12 +74,28 @@ Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
 
 </details>
 
-<details open>
+<details>
 <summary><strong>22.09.2026</strong> · 7:27 PM · Uzbekistan, Karshi</summary>
 
 > Bugungi kun juda ajoyib bo'ldi. Yaxshi xotiralarga boy va qiziqarli o'tdi. Eng yaqin insonim uchun kayfiyat manbai ekanman. U ham mening kayfiyat manbaimdir. Meni ijod qilishga undaydigan insondir. Shu bois bugunning o'zida ancha ishlarni qildim. Har doim ilhom manbaim bo'p qoling dunyo go'zalim
 
 - [ ] Ha bu <kbd>sevgi</kbd> deb ataladi. Dasturchi sevgisi. 😉
+
+</details>
+
+<details open>
+<summary><strong>23.09.2026</strong> · 8:37 PM · Uzbekistan, Karshi</summary>
+
+> Inson tug'ilishi bilan qutiga solinadi, quti ichida yashaydi, ishga borib ham qutiga o'xshash xonada ishlashadi, quti ichidagi mahsulotlarni harid qilish uchun ham qutida borishadi va qutiga solib olib kelishadi, o'lganlarida ham qutiga solib ko'mishadi. Asl hayot bu qutidan tashqaridagi hayotdir.
+- [ ] O'z yo'linggizni topmagunizcha qoidalarni buzing. Men har doim shunday qilaman
+- [ ] Tushunmagunizcha ahmoqona savollar bering
+- [ ] Hammasi sizga jinnisan desa bilingki siz qutidan chiqishni boshlagansiz. Balki chiqib bo'lgandirsiz.
+- [ ] Men hech qachon birov tuzgan o'yinni o'ynamayman. Yo men tuzgan o'yinni o'ynashadi yoki oldimda sirk qo'yishadi. Ahmoqdek ko'rindi degani ahmoq degani emas
+> Ertalabdan shuncha gap.
+```python
+while True:
+    print('har kuni harakat qil, natija bo'lmasa ham')
+```
 
 </details>
 
