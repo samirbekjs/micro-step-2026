@@ -96,8 +96,9 @@ Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
 while True:
     print("har kuni harakat qil, natija bo'lmasa ham")
 ```
+</details>
 
-</details open>
+<details open>
 <summary><strong>24.09.2026</strong> · 7:20 PM · Uzbekistan, Karshi</summary>
 > Yaxshimi, yomonmi, bitilgan taqdir,
 >
