@@ -83,7 +83,7 @@ Sher yozgim keldi. Qofiyasi kelishmaganu ammo o'zim yozdim
 
 </details>
 
-<details open>
+<details>
 <summary><strong>23.09.2026</strong> · 8:37 PM · Uzbekistan, Karshi</summary>
 
 > Inson tug'ilishi bilan qutiga solinadi, quti ichida yashaydi, ishga borib ham qutiga o'xshash xonada ishlashadi, quti ichidagi mahsulotlarni harid qilish uchun ham qutida borishadi va qutiga solib olib kelishadi, o'lganlarida ham qutiga solib ko'mishadi. Asl hayot bu qutidan tashqaridagi hayotdir.
@@ -97,6 +97,17 @@ while True:
     print("har kuni harakat qil, natija bo'lmasa ham")
 ```
 
+</details open>
+<summary><strong>24.09.2026</strong> · 7:20 PM · Uzbekistan, Karshi</summary>
+> Yaxshimi, yomonmi, bitilgan taqdir,
+>
+> Jannatmi do'zaxmi borligi haqdir
+>
+> Lek dunyoda bordir bitta haqiqat,
+>
+> Qabrdagi savdo amaling naqddir!
+
+- [ ] O'limini o'ylab yashagan inson, har kundan qanday rohat olishni biladi. Xullas ashnaqa 😉
 </details>
 
 
