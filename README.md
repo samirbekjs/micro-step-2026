@@ -98,7 +98,7 @@ while True:
 ```
 </details>
 
-<details open>
+<details>
 <summary><strong>24.09.2026</strong> · 7:20 PM · Uzbekistan, Karshi</summary>
   
 > Yaxshimi, yomonmi, bitilgan taqdir,
@@ -111,6 +111,23 @@ while True:
 
 - [ ] O'limini o'ylab yashagan inson, har kundan qanday rohat olishni biladi. Xullas ashnaqa 😉
 </details>
+
+<details open>
+<summary><strong>25.09.2026</strong> · 8:14 PM · Uzbekistan, Karshi</summary>
+  
+> Bugungi kun juda sokin hamda ajoyib o'tdi. Kayfiyatim yaxshi. Muborak Juma kuni ham tugab bormoqda. Yana umrimiz 1 kunga qisqardi. 
+
+> Jahonda g'am yema, qo'lingdan kelsa,
+> 
+> Birovga sir aytma, dil dardga to'lsa.
+>
+> Qo'lingda borini yeb-ich, kiyib qol,
+> 
+> Bir don olib borolmassan, xazinang bo'lsa.
+
+- [ ] Bilasizmi inson qachon yuksaladi: Umrning, vaqtning qadriga yetishni boshlasa. Pul uchun yugurmang jonni Alloh bergan risqini ham beradi. Shunchaki hayotdan zavq oling, bahonalar qilmasdan. Xullas ashnaqa 😉
+</details>
+
 
 
 ---
