@@ -112,7 +112,7 @@ while True:
 - [ ] O'limini o'ylab yashagan inson, har kundan qanday rohat olishni biladi. Xullas ashnaqa 😉
 </details>
 
-<details open>
+<details>
 <summary><strong>25.09.2026</strong> · 8:14 PM · Uzbekistan, Karshi</summary>
   
 > Bugungi kun juda sokin hamda ajoyib o'tdi. Kayfiyatim yaxshi. Muborak Juma kuni ham tugab bormoqda. Yana umrimiz 1 kunga qisqardi. 
@@ -126,6 +126,14 @@ while True:
 > Bir don olib borolmassan, xazinang bo'lsa.
 
 - [ ] Bilasizmi inson qachon yuksaladi: Umrning, vaqtning qadriga yetishni boshlasa. Pul uchun yugurmang jonni Alloh bergan risqini ham beradi. Shunchaki hayotdan zavq oling, bahonalar qilmasdan. Xullas ashnaqa 😉
+</details>
+
+<details open>
+<summary><strong>26.09.2026</strong> · 6:46 PM · Uzbekistan, Karshi</summary>
+
+  > Qozog'istonlik hamkasblarim uchun chin qalbimdan hamdardlik bildiraman. Ular kecha cho'kib ketishdi. Kechadan oldingi kun uylarida edilar xursand va baxtiyor. Bundan xulosa shuki o'tayotgan vaqtinggizni qadriga yeting. Yaqinlaringgizning qadriga yeting. Hayotdan zavq oling
+
+- [ ] Buni o'qiyapsizmi demak eng qadri insonimsiz men uchun. Hayotimda borligiz uchun rahmat. Ilohim uzoq va baxtli umr ko'ring. Sizni har doim yaxshi ko'ruvchi oddiygina Samirbekkdan dil so'zlari. Xullas ashnaqa.
 </details>
 
 
