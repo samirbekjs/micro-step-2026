@@ -119,9 +119,9 @@ while True:
 
 > Jahonda g'am yema, qo'lingdan kelsa,
 > 
-> Birovga sir aytma, dil dardga to'lsa.
+> Yaxshimas gumondan dil dartga to'lsa.
 >
-> Qo'lingda borini yeb-ich, kiyib qol,
+> Besh kunlik dunyoda shodlikla yeb ich,
 > 
 > Bir don olib borolmassan, xazinang bo'lsa.
 
