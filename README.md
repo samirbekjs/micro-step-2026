@@ -128,12 +128,22 @@ while True:
 - [ ] Bilasizmi inson qachon yuksaladi: Umrning, vaqtning qadriga yetishni boshlasa. Pul uchun yugurmang jonni Alloh bergan risqini ham beradi. Shunchaki hayotdan zavq oling, bahonalar qilmasdan. Xullas ashnaqa 😉
 </details>
 
-<details open>
+<details>
 <summary><strong>26.09.2026</strong> · 6:46 PM · Uzbekistan, Karshi</summary>
 
   > Qozog'istonlik hamkasblarim uchun chin qalbimdan hamdardlik bildiraman. Ular kecha cho'kib ketishdi. Kechadan oldingi kun uylarida edilar xursand va baxtiyor. Bundan xulosa shuki o'tayotgan vaqtinggizni qadriga yeting. Yaqinlaringgizning qadriga yeting. Hayotdan zavq oling
 
 - [ ] Buni o'qiyapsizmi demak eng qadri insonimsiz men uchun. Hayotimda borligiz uchun rahmat. Ilohim uzoq va baxtli umr ko'ring. Sizni har doim yaxshi ko'ruvchi oddiygina Samirbekkdan dil so'zlari. Xullas ashnaqa.
+</details>
+
+<details open>
+<summary><strong>27.09.2026</strong> · 9:00 PM · Uzbekistan, Karshi</summary>
+  
+  > I: I miss you. Only you
+  
+  > S: I miss you so much too.
+
+  - [ ] Inson tabassum qilishi uchun ko'p narsa kerak emas bitta jumla bo'lsa kifoya. 
 </details>
 
 
