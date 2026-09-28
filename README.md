@@ -149,7 +149,7 @@ while True:
 <details open>
 <summary><strong>28.09.2026</strong> · 4:52 PM · Uzbekistan, Karshi</summary>
   
-  >HAMMA NARSANI AVVALO YARATGANDAN BOSHLASH KERAK. ILIMNING ENG AVVALI XUDOGA QUL EKANLIGINGNI ANGLASH. FAQATGINA AXMOQLARGINA BUNDAY DONISHMANDLIKKA TESKARI BURILISHLARI MUMKIN
+  >HAMMA NARSANI AVVALO YARATGANDAN BOSHLASH KERAK. ILIMNING ENG AVVALI XUDOGA QUL EKANLIGINGNI ANGLASH. FAQAT AXMOQLARGINA BUNDAY DONISHMANDLIKKA TESKARI BURILISHLARI MUMKIN
 
   - [ ] Ko'pgina olimlar Alloh yo'q ilm bor deyishadi. Ammo ular bilishmaydi ilmni ham Alloh yaratgan. Inson shunchaki bir zaif mavjudod xolos. Buni tan olishimiz kerak. 
 </details>
