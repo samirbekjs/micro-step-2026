@@ -136,7 +136,7 @@ while True:
 - [ ] Buni o'qiyapsizmi demak eng qadri insonimsiz men uchun. Hayotimda borligiz uchun rahmat. Ilohim uzoq va baxtli umr ko'ring. Sizni har doim yaxshi ko'ruvchi oddiygina Samirbekkdan dil so'zlari. Xullas ashnaqa.
 </details>
 
-<details open>
+<details>
 <summary><strong>27.09.2026</strong> · 9:00 PM · Uzbekistan, Karshi</summary>
   
   > I: I miss you. Only you
@@ -144,6 +144,14 @@ while True:
   > S: I miss you so much too.
 
   - [ ] Inson tabassum qilishi uchun ko'p narsa kerak emas bitta jumla bo'lsa kifoya. 
+</details>
+
+<details open>
+<summary><strong>28.09.2026</strong> · 4:52 PM · Uzbekistan, Karshi</summary>
+  
+  >HAMMA NARSANI AVVALO YARATGANDAN BOSHLASH KERAK. ILIMNING ENG AVVALI XUDOGA QUL EKANLIGINGNI ANGLASH. FAQATGINA AXMOQLARGINA BUNDAY DONISHMANDLIKKA TESKARI BURILISHLARI MUMKIN
+
+  - [ ] Ko'pgina olimlar Alloh yo'q ilm bor deyishadi. Ammo ular bilishmaydi ilmni ham Alloh yaratgan. Inson shunchaki bir zaif mavjudod xolos. Buni tan olishimiz kerak. 
 </details>
 
 
