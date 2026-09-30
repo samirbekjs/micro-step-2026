@@ -146,12 +146,20 @@ while True:
   - [ ] Inson tabassum qilishi uchun ko'p narsa kerak emas bitta jumla bo'lsa kifoya. 
 </details>
 
-<details open>
+<details>
 <summary><strong>28.09.2026</strong> · 4:52 PM · Uzbekistan, Karshi</summary>
   
   >HAMMA NARSANI AVVALO YARATGANDAN BOSHLASH KERAK. ILIMNING ENG AVVALI XUDOGA QUL EKANLIGINGNI ANGLASH. FAQAT AXMOQLARGINA BUNDAY DONISHMANDLIKKA TESKARI BURILISHLARI MUMKIN
 
   - [ ] Ko'pgina olimlar Alloh yo'q ilm bor deyishadi. Ammo ular bilishmaydi ilmni ham Alloh yaratgan. Inson shunchaki bir zaif mavjudod xolos. Buni tan olishimiz kerak. 
+</details>
+
+<details open>
+<summary><strong>29.09.2026</strong> · 8:10 PM · Uzbekistan, Karshi</summary>
+  
+  > QVZ bo'ldi bayram munosabati bilan. Qizlar bilan VALS kechasi, konsert va yana qandaydir o'yinlar. Ammo har doimgidek men u yerda yo'qman. Bu bilmadim nega balki qizlar borligi uchundir, balki QVZ ssenarisini bilganim uchundir, balki vaqtim bo'lmagani uchundir unisini bilmadim. Bitta bilganim maqsadlarim yo'lida chalg'imasligim. Bir kun kelib shu so'zlarni o'qiyotganimda aslida nimalardan kechganim ko'z oldimga kelsin. Kelajakdagi Samir bu maktub o'tmishdagi o'zingdan. Hammasi yaxshi bo'ladi.
+
+  - [ ] Allohimga oson hammasi. Alloh xoxlagani bo'ladi. Sabr, Sabr va yana Sabr.
 </details>
 
 
