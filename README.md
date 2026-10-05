@@ -154,12 +154,20 @@ while True:
   - [ ] Ko'pgina olimlar Alloh yo'q ilm bor deyishadi. Ammo ular bilishmaydi ilmni ham Alloh yaratgan. Inson shunchaki bir zaif mavjudod xolos. Buni tan olishimiz kerak. 
 </details>
 
-<details open>
+<details>
 <summary><strong>29.09.2026</strong> · 8:10 PM · Uzbekistan, Karshi</summary>
   
   > QVZ bo'ldi bayram munosabati bilan. Qizlar bilan VALS kechasi, konsert va yana qandaydir o'yinlar. Ammo har doimgidek men u yerda yo'qman. Bu bilmadim nega balki qizlar borligi uchundir, balki QVZ ssenarisini bilganim uchundir, balki vaqtim bo'lmagani uchundir unisini bilmadim. Bitta bilganim maqsadlarim yo'lida chalg'imasligim. Bir kun kelib shu so'zlarni o'qiyotganimda aslida nimalardan kechganim ko'z oldimga kelsin. Kelajakdagi Samir bu maktub o'tmishdagi o'zingdan. Hammasi yaxshi bo'ladi.
 
   - [ ] Allohimga oson hammasi. Alloh xoxlagani bo'ladi. Sabr, Sabr va yana Sabr.
+</details>
+
+<details open>
+<summary><strong>5.10.2026</strong> · 7:22 PM · Uzbekistan, Karshi</summary>
+  
+  > Kun judayam ajoyib o'tdi. Ammo kayfiyatim yo'q. Boshim og'riyapti ustiga ustak instagramga ham kirolmayapman 4 kundan beri, Bittasini judayam sog'indim. Agar buni o'qib turgan bo'lsa bilsinki: Yozmayapti degani bu unutdi deganimas. Inson sevsa har doim sog'inadi, eslaydi garchi u inson yonida bo'lsa hamki. 😉
+
+  - [ ] Ertaga nima qilasan? J: Ertaga qolgan joyidan davom etaman. Maqsadlarim sari <kbd>micro-step</kbd> qo'yishni davom etaman
 </details>
 
 
