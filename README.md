@@ -10,16 +10,22 @@
 
 Yozuvlar sana bo'yicha tartiblangan. Kerakli kunni ochish uchun uning sarlavhasini bosing.
 
-<details open>
-<summary><strong>09.11.2026</strong> · 2:38 PM · Uzbekistan, Karshi</summary>
+<details>
+<summary><strong>09.11.2026</strong> · 🕙 2:38 PM · 📍 Uzbekistan, Karshi</summary>
 
 > Bugun Qarshida yomg'ir dam olish davom etmoqda vaziyatdan foydalanib bir ishlar qilayapmiz.
 
-Bugun kitob o'qimoqchi edim afsus hali yangi kitoblar kelmadi, demak bugun sport kuni ekan. Ha aytgancha bularni o'qiyapsizmi demak meni yaqinimsiz. Men yaqinlarimni sevaman. Havo sovuq issiq kiyinib yurish kerak hopmi? 😉❤️. Hop deng dedim... bu boshqa gap endi😁. Bo'pti charchamang kunni yaxshi o'tkazing.
+Bugun kitob o'qimoqchi edim afsus hali yangi kitoblar kelmadi, demak bugun sport kuni ekan. Ha aytgancha bularni o'qiyapsizmi demak meni yaqinimsiz. Men yaqinlarimni sevaman. Havo sovuq issiq kiyinib yurish kerak hopmi? 🥺😍. Hop deng dedim... bu boshqa gap endi😁. Bo'pti charchamang kunni yaxshi o'tkazing.
 
 - [ ] Kunni yaxshi o'tkazish kerak yomon boshlansa ham.
 
 </details>
 
+<details open>
+<summary><strong>13.11.2026</strong> · 9:46 PM · 📍 Uzbekistan, Bukhara</summary>
+
+> Hay, Qashqadaryoda hay bo'larkan — bu buyuk kashfiyot! 😁
+
+</details>
 
 ---
