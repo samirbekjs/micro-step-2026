@@ -24,7 +24,7 @@ Bugun kitob o'qimoqchi edim afsus hali yangi kitoblar kelmadi, demak bugun sport
 <details open>
 <summary><strong>13.11.2026</strong> · 9:46 PM · 📍 Uzbekistan, Bukhara</summary>
 
-> Hay, Qashqadaryoda hay bo'larkan — bu buyuk kashfiyot! 😁
+> Buxoroda Hay, Qashqadaryoda Xay bo'ladi. Mana yozdim 😁
 
 </details>
 
